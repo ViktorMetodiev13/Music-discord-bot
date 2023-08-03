@@ -8,4 +8,3 @@ This is the start of a mini project
 * The bot will be launched for general usage and each discord will be able to add it and use its services
 
 # This bot will be free hosted
-* But I don't know where to host it yet
